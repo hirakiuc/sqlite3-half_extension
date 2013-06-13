@@ -33,7 +33,7 @@ Makefile     README.md    half.c       half.sqlext*
 $ /usr/local/bin/sqlite3
 >.load half.sqlext
 > SELECT half(200);
-100;
+100.0
 ```
 
 # reference
