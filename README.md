@@ -36,6 +36,12 @@ $ /usr/local/bin/sqlite3
 100.0
 ```
 
+# Copyright
+
+half.c is included in sqlite3 wiki.
+
+See http://sqlite.org/cvstrac/wiki?p=LoadableExtensions
+
 # reference
 
   * [coolaj86/sqlite3-fts4-rank](https://github.com/coolaj86/sqlite3-fts4-rank)
