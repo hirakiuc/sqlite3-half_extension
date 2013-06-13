@@ -3,13 +3,14 @@ sqlite3-half_extension
 
   This sqlite3 extension provide the half function.
   And this codes is shown in sqlite.org online document.
+
   see http://sqlite.org/cvstrac/wiki?p=LoadableExtensions
 
 
 # How to clone and build
 
 ```sh
-$ git clone http://github.com/......
+$ git clone git://github.com/hirakiuc/sqlite3-half_extension.git
 $ cd sqlite3-half_extension
 $ make darwin # or linux (linux) or win32 (Visual Studio)
 ```
